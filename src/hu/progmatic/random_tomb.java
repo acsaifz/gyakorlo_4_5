@@ -9,7 +9,7 @@ public class random_tomb {
 
         for (int i = 0; i < randomNums.length;i++){
             boolean notNewNum;
-            
+
             do {
                 notNewNum = false;
                 int rnd = (int)(Math.random()*100+1);
