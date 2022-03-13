@@ -2,7 +2,7 @@ package hu.progmatic;
 
 public class decimalisbol_binaris {
     public static void main(String[] args) {
-        int decimal = 4242; //negatív számmal nem működik!!
+        int decimal = 4242;
         String binary = "";
 
         do{
